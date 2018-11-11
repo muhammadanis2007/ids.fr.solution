@@ -1,0 +1,11 @@
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.csprojAssemblyReference.cache
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.csproj.CoreCompileInputs.cache
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.AssemblyInfoInputs.cache
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.AssemblyInfo.cs
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\bin\Debug\netcoreapp2.1\ids.fr.solution.deps.json
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\bin\Debug\netcoreapp2.1\ids.fr.solution.runtimeconfig.json
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\bin\Debug\netcoreapp2.1\ids.fr.solution.runtimeconfig.dev.json
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\bin\Debug\netcoreapp2.1\ids.fr.solution.dll
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\bin\Debug\netcoreapp2.1\ids.fr.solution.pdb
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.dll
+F:\projects\ASP.NET-Core\ids.fr.solution\ids.fr.solution\obj\Debug\netcoreapp2.1\ids.fr.solution.pdb
